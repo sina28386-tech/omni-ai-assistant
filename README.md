@@ -54,6 +54,8 @@ The Windows service stores conversations and provider data locally. Provider API
 
 The Windows build can use a locally installed, signed-in Codex CLI when available. Direct Codex account sign-in on Android is not implemented. Android can use configured compatible model APIs, and its provider test can attempt a harmless tool call; an inconclusive result is not proof that tools are unsupported.
 
+The optional legacy PC bridge is included at `android/scripts/hermes_pc_agent.py`. It is separate from the Windows desktop service, uses a bearer token and a fixed action allowlist, and listens on loopback by default. It does not provide TLS itself; use an encrypted connection and avoid exposing it directly to untrusted networks. The bridge does not provide an Android Codex login.
+
 Android voice input uses the speech recognition service installed on the phone. Persian and English selection is available, but recognition quality, live partial results, connectivity, and language-pack availability depend on that service and device. Media search and playback support local files; online catalog search and playback are not established by the local media tool.
 
 ## Development checks
