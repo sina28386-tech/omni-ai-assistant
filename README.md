@@ -1,5 +1,7 @@
 # Omni AI Assistant
 
+[فارسی](README.fa.md)
+
 Omni is an experimental AI assistant workspace for Windows and Android. It combines a local desktop service and interface with an Android app, so people can connect their own model providers and use supported tools from one place. The interface includes Persian and English localization.
 
 The project is under active development. Capabilities vary by platform, model, provider, device permissions, and operating system. A configured provider does not automatically mean that its model supports tool calling.
