@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_label">کنترل گوشی توسط Omni</string>
+    <string name="accessibility_service_description">به Omni اجازه می‌دهد هنگام درخواست شما صفحهٔ در حال نمایش را بخواند و لمس، تایپ و اسکرول انجام دهد. Omni هرگز رمز عبور را ثبت نمی‌کند و بدون درخواست صریح در پس‌زمینه کار نمی‌کند.</string>
+    <string name="notification_listener_label">دسترسی Omni به اعلان‌ها</string>
+</resources>

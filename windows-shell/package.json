@@ -1,0 +1,20 @@
+{
+  "name": "omni-windows-shell",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Windows shell for Omni Desktop",
+  "main": "main.cjs",
+  "devDependencies": {
+    "electron": "45.1.0",
+    "electron-builder": "26.0.12"
+  },
+  "build": {
+    "appId": "ai.omni.desktop",
+    "productName": "Omni Assistant",
+    "asar": false,
+    "files": ["main.cjs", "package.json", "runtime/**/*"],
+    "directories": { "output": "release" },
+    "win": { "target": ["nsis"], "icon": "icon.ico", "signAndEditExecutable": true },
+    "nsis": { "oneClick": false, "allowToChangeInstallationDirectory": true, "perMachine": false, "createDesktopShortcut": true }
+  }
+}

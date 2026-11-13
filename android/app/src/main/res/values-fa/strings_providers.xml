@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="providers_screen_subtitle">کلید خودتان را بیاورید؛ درخواست‌ها مستقیم به سرویس انتخابی می‌روند.</string>
+
+    <string name="providers_empty_title">هنوز سرویسی اضافه نشده است</string>
+    <string name="providers_empty_body">برای اتصال اُمنی به یک سرویس هوش مصنوعی پروفایل بسازید. کلید فقط روی این دستگاه و به‌صورت رمزگذاری‌شده ذخیره می‌شود و تنها به همان سرویس ارسال می‌گردد.</string>
+
+    <string name="providers_section_profiles">پروفایل‌ها</string>
+    <string name="providers_default_badge">در حال استفاده</string>
+    <string name="providers_status_ready">تنظیم‌شده</string>
+    <string name="providers_status_needs_key">نیازمند کلید</string>
+    <string name="providers_more_options_for">گزینه‌های بیشتر برای %1$s</string>
+    <string name="providers_action_activate">فعال‌سازی</string>
+
+    <string name="providers_local_dev_title">حالت توسعه محلی فعال است</string>
+    <string name="providers_local_dev_body">آدرس‌های HTTP فقط برای میزبان‌های محلی و خصوصی مجاز هستند.</string>
+
+    <string name="providers_section_connection">اتصال</string>
+    <string name="providers_section_model">مدل</string>
+    <string name="providers_section_behavior">رفتار</string>
+    <string name="providers_section_advanced">پیشرفته</string>
+
+    <string name="providers_label_type">نوع سرویس</string>
+    <string name="providers_label_organization">شناسه سازمان یا پروژه</string>
+    <string name="providers_label_temperature">دمای مدل</string>
+    <string name="providers_label_max_tokens">حداکثر توکن خروجی</string>
+    <string name="providers_label_timeout">مهلت</string>
+    <string name="providers_label_custom_headers">هدرهای سفارشی</string>
+
+    <string name="providers_helper_type">یک پیش‌تنظیم انتخاب کنید تا آدرس‌های سازگار پر شوند؛ بعد هر بخشی را که لازم است تغییر دهید.</string>
+    <string name="providers_helper_name">نامی که در گفتگوها و تنظیمات دیده می‌شود.</string>
+    <string name="providers_helper_base_url">ریشه API است و معمولاً با ‎/v1‎ پایان می‌یابد. مگر در حالت توسعه محلی، HTTPS الزامی است.</string>
+    <string name="providers_helper_endpoint_path">به انتهای آدرس پایه اضافه می‌شود؛ برای نمونه ‎/chat/completions‎.</string>
+    <string name="providers_helper_api_key">روی این دستگاه رمزگذاری می‌شود. بیشتر سرویس‌های میزبانی‌شده به آن نیاز دارند.</string>
+    <string name="providers_helper_organization">اختیاری. فقط در سرویس‌هایی به کار می‌رود که شناسه سازمان یا پروژه را می‌پذیرند.</string>
+    <string name="providers_helper_model">شناسه دقیق مدل در سرویس؛ برای نمونه ‎meta/llama-3.1-70b-instruct‎.</string>
+    <string name="providers_helper_temperature">بین ۰ و ۲. مقدار کمتر پاسخ را متمرکزتر و مقدار بیشتر آن را متنوع‌تر می‌کند.</string>
+    <string name="providers_helper_max_tokens">بین ۱ و ۶۵٬۵۳۶. بیشترین تعداد توکنی که مدل می‌تواند در یک پاسخ برگرداند.</string>
+    <string name="providers_helper_token_parameter">فیلدی که سقف خروجی را در درخواست حمل می‌کند. حالت خودکار برای بیشتر سرویس‌ها مناسب است.</string>
+    <string name="providers_helper_system_prompt">دستورهایی که با هر درخواست این پروفایل ارسال می‌شوند.</string>
+    <string name="providers_switch_tools">فراخوانی ابزار</string>
+    <string name="providers_helper_tools">برای مدل‌های دارای فراخوانی تابع روشن کنید. آزمون یک درخواست کوچک اضافه می‌فرستد و ممکن است توکن مصرف کند.</string>
+    <string name="providers_tools_declared">فراخوانی ابزار روشن است، اما پشتیبانی مدل هنوز تأیید نشده. کار روی گوشی به حالت دستیار و مجوزهای مربوط هم نیاز دارد.</string>
+    <string name="providers_chat_only">فقط گفتگو: تا وقتی فراخوانی ابزار خاموش است، این پروفایل نمی‌تواند از ابزارهای گوشی استفاده کند.</string>
+    <string name="providers_tool_test_confirmed">اتصال موفق بود و مدل یک فراخوانی آزمایشی بی‌اثر برگرداند. کار روی گوشی همچنان به حالت دستیار و مجوزها نیاز دارد.</string>
+    <string name="providers_tool_test_unconfirmed">اتصال موفق بود، اما پشتیبانی ابزار تأیید نشد. ممکن است مدل فقط گفتگو کند یا آزمون به نتیجه نرسیده باشد.</string>
+    <string name="providers_helper_vision">امکان ارسال تصویر به مدل‌هایی که از آن پشتیبانی می‌کنند.</string>
+    <string name="providers_helper_streaming">پاسخ هم‌زمان با تولید نمایش داده می‌شود.</string>
+    <string name="providers_helper_timeout">بین ۵ و ۳۰۰ ثانیه. پس از این مدت درخواست لغو می‌شود.</string>
+    <string name="providers_helper_custom_headers">در هر خط یک جفت Header: Value بنویسید؛ به همه درخواست‌های این پروفایل اضافه می‌شود.</string>
+    <string name="providers_helper_enabled">پروفایل غیرفعال ذخیره می‌ماند، اما در گفتگوها قابل استفاده نیست.</string>
+
+    <string name="providers_show_api_key">نمایش کلید API</string>
+    <string name="providers_hide_api_key">پنهان‌کردن کلید API</string>
+
+    <string name="providers_testing_body">یک درخواست کوچک آزمایشی به سرویس فرستاده می‌شود.</string>
+    <string name="providers_test_success_title">اتصال تأیید شد</string>
+    <string name="providers_test_success_body">سرویس به درخواست آزمایشی پاسخ داد. اگر تنظیمات را تغییر دهید، دوباره آزمایش کنید.</string>
+    <string name="providers_test_failed_title">آزمایش اتصال ناموفق بود</string>
+    <string name="providers_test_failed_body">آدرس پایه، کلید API و شناسه مدل را بررسی کنید و دوباره تلاش کنید.</string>
+    <string name="providers_save_failed_title">ذخیره سرویس ممکن نشد</string>
+    <string name="providers_error_endpoint">این endpoint مجاز نیست. آدرس پایه و مسیر را بررسی کنید؛ HTTP به حالت توسعه محلی نیاز دارد.</string>
+    <string name="providers_error_validation">فیلدهای ضروری، بازه اعداد و خطوط هدر سفارشی را بررسی کنید.</string>
+    <string name="providers_error_auth">سرویس کلید API را نپذیرفت.</string>
+    <string name="providers_error_network">به سرویس دسترسی پیدا نشد. اتصال و آدرس پایه را بررسی کنید.</string>
+    <string name="providers_error_timeout">پاسخ سرویس بیش از حد طول کشید. مهلت را بیشتر کنید یا دوباره تلاش کنید.</string>
+    <string name="providers_error_quota">سرویس از محدودیت نرخ یا اتمام سهمیه خبر می‌دهد. کمی بعد دوباره تلاش کنید.</string>
+    <string name="providers_error_model">این مدل با کلید فعلی در دسترس نیست. شناسه مدل را بررسی کنید.</string>
+
+    <string name="providers_save_provider">ذخیره سرویس</string>
+    <string name="providers_save_changes">ذخیره تغییرات</string>
+
+    <string name="providers_type_nvidia">NVIDIA NIM</string>
+    <string name="providers_type_openai">OpenAI</string>
+    <string name="providers_type_groq">Groq</string>
+    <string name="providers_type_openrouter">OpenRouter</string>
+    <string name="providers_type_gemini">Google Gemini</string>
+    <string name="providers_type_ollama">Ollama</string>
+    <string name="providers_type_vllm">vLLM</string>
+    <string name="providers_type_custom">سازگار با OpenAI (سفارشی)</string>
+
+    <string name="providers_no_model">مدلی انتخاب نشده</string>
+    <string name="providers_delete_body_named">«%1$s» از این دستگاه حذف می‌شود. گفتگوهای قبلی باقی می‌مانند، اما این پروفایل و کلید ذخیره‌شده دیگر قابل بازیابی نیستند.</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_wordmark">OMNI</string>
+
+    <string name="home_greeting_morning">صبح بخیر</string>
+    <string name="home_greeting_afternoon">بعد از ظهر بخیر</string>
+    <string name="home_greeting_evening">عصر بخیر</string>
+    <string name="home_greeting_night">شب بخیر</string>
+    <string name="home_headline">چه کاری برایتان انجام دهم؟</string>
+
+    <string name="home_composer_placeholder">هر چیزی بپرسید یا بگویید…</string>
+    <string name="home_composer_field">پیام به اُمنی</string>
+    <string name="home_cd_voice">ورودی صوتی</string>
+    <string name="home_cd_send">ارسال پیام</string>
+
+    <string name="home_pill_ready">آماده</string>
+    <string name="home_pill_choose">انتخاب</string>
+    <string name="home_pill_setup">راه‌اندازی</string>
+
+    <string name="home_ai_ready">هوش مصنوعی آماده</string>
+    <string name="home_ai_choose">هوش مصنوعی: انتخاب</string>
+    <string name="home_ai_off">هوش مصنوعی خاموش</string>
+    <string name="home_phone_on">کنترل گوشی روشن</string>
+    <string name="home_phone_off">کنترل گوشی خاموش</string>
+    <string name="home_phone_setup">کنترل گوشی: تنظیم</string>
+    <string name="home_notifications_on">اعلان‌ها روشن</string>
+    <string name="home_notifications_off">اعلان‌ها خاموش</string>
+
+    <string name="home_banner_no_provider">هنوز سرویس هوش مصنوعی متصل نیست. برای شروع یکی را وصل کنید.</string>
+    <string name="home_banner_disabled">هیچ سرویس هوش مصنوعی فعالی وجود ندارد.</string>
+    <string name="home_banner_no_default">یک سرویس پیش‌فرض انتخاب کنید.</string>
+    <string name="home_banner_action">سرویس‌ها</string>
+
+    <string name="home_section_device">روی این گوشی</string>
+    <string name="home_section_recent">اخیر</string>
+    <string name="home_see_all">مشاهده همه</string>
+    <string name="home_capability_action">شروع گفتگوی جدید</string>
+
+    <string name="home_cap_call">تماس</string>
+    <string name="home_cap_message">پیام</string>
+    <string name="home_cap_files">فایل‌ها</string>
+    <string name="home_cap_screen">صفحه</string>
+    <string name="home_cap_apps">برنامه‌ها</string>
+    <string name="home_cap_alarm">زنگ هشدار</string>
+
+    <string name="home_prompt_call">برایم با کسی تماس بگیر.</string>
+    <string name="home_prompt_message">برایم یک پیامک بفرست.</string>
+    <string name="home_prompt_files">یک فایل در این گوشی پیدا کن.</string>
+    <string name="home_prompt_screen">محتویات صفحهٔ گوشی را برایم بخوان.</string>
+    <string name="home_prompt_apps">یک برنامه را در گوشی باز کن.</string>
+    <string name="home_prompt_alarm">برای ساعت ۷ فردا یک زنگ هشدار بگذار.</string>
+
+    <string name="home_recent_empty_title">هنوز گفتگویی ندارید</string>
+    <string name="home_recent_empty_body">گفتگوهایتان اینجا نمایش داده می‌شوند. از کادر بالا شروع کنید.</string>
+    <string name="home_new_chat">گفتگوی تازه</string>
+    <string name="home_untitled_chat">گفتگوی بی‌نام</string>
+    <string name="home_time_just_now">همین حالا</string>
+    <string name="home_time_minutes_ago">%1$d دقیقه پیش</string>
+    <string name="home_time_hours_ago">%1$d ساعت پیش</string>
+    <string name="home_time_yesterday">دیروز</string>
+    <string name="home_time_days_ago">%1$d روز پیش</string>
+
+    <string name="home_open_providers">باز کردن سرویس‌های هوش مصنوعی</string>
+    <string name="home_open_devices">باز کردن دستگاه‌ها</string>
+</resources>

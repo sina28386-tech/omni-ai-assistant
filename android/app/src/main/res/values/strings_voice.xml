@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_input_language_chip">Voice input · %1$s</string>
+    <string name="voice_read_aloud">Read replies aloud</string>
+    <string name="voice_transcript">Transcript</string>
+    <string name="voice_start_listening">Start listening</string>
+    <string name="voice_state_idle">Ready</string>
+    <string name="voice_state_listening">Listening</string>
+    <string name="voice_no_match">I didn’t catch that. Try again.</string>
+    <string name="voice_no_speech">No speech was detected. Try again.</string>
+    <string name="voice_reply_failed">Couldn’t get a reply</string>
+    <string name="voice_tts_unavailable_body">Check that a text-to-speech engine and voice are installed, then try again.</string>
+</resources>

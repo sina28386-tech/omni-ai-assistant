@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_wordmark">OMNI</string>
+
+    <string name="home_greeting_morning">Good morning</string>
+    <string name="home_greeting_afternoon">Good afternoon</string>
+    <string name="home_greeting_evening">Good evening</string>
+    <string name="home_greeting_night">Good night</string>
+    <string name="home_headline">What should we do?</string>
+
+    <string name="home_composer_placeholder">Ask anything, or say it…</string>
+    <string name="home_composer_field">Message Omni</string>
+    <string name="home_cd_voice">Voice input</string>
+    <string name="home_cd_send">Send message</string>
+
+    <string name="home_pill_ready">Ready</string>
+    <string name="home_pill_choose">Choose</string>
+    <string name="home_pill_setup">Set up</string>
+
+    <string name="home_ai_ready">AI service ready</string>
+    <string name="home_ai_choose">AI service: choose</string>
+    <string name="home_ai_off">AI service off</string>
+    <string name="home_phone_on">Phone control on</string>
+    <string name="home_phone_off">Phone control off</string>
+    <string name="home_phone_setup">Phone control setup</string>
+    <string name="home_notifications_on">Notifications on</string>
+    <string name="home_notifications_off">Notifications off</string>
+
+    <string name="home_banner_no_provider">No AI service yet. Connect one to start.</string>
+    <string name="home_banner_disabled">No AI service is enabled.</string>
+    <string name="home_banner_no_default">Choose a default AI service.</string>
+    <string name="home_banner_action">Providers</string>
+
+    <string name="home_section_device">On this phone</string>
+    <string name="home_section_recent">Recent</string>
+    <string name="home_see_all">See all</string>
+    <string name="home_capability_action">Start a new chat</string>
+
+    <string name="home_cap_call">Call</string>
+    <string name="home_cap_message">Message</string>
+    <string name="home_cap_files">Files</string>
+    <string name="home_cap_screen">Screen</string>
+    <string name="home_cap_apps">Apps</string>
+    <string name="home_cap_alarm">Alarm</string>
+
+    <string name="home_prompt_call">Call someone for me.</string>
+    <string name="home_prompt_message">Send a text message for me.</string>
+    <string name="home_prompt_files">Find a file on this phone.</string>
+    <string name="home_prompt_screen">Read what is on my screen.</string>
+    <string name="home_prompt_apps">Open an app on my phone.</string>
+    <string name="home_prompt_alarm">Set an alarm for 7:00 tomorrow.</string>
+
+    <string name="home_recent_empty_title">No conversations yet</string>
+    <string name="home_recent_empty_body">Your chats will appear here. Start with the composer above.</string>
+    <string name="home_new_chat">Start a new chat</string>
+    <string name="home_untitled_chat">Untitled conversation</string>
+    <string name="home_time_just_now">Just now</string>
+    <string name="home_time_minutes_ago">%1$d min ago</string>
+    <string name="home_time_hours_ago">%1$d hr ago</string>
+    <string name="home_time_yesterday">Yesterday</string>
+    <string name="home_time_days_ago">%1$d days ago</string>
+
+    <string name="home_open_providers">Open AI providers</string>
+    <string name="home_open_devices">Open devices</string>
+</resources>

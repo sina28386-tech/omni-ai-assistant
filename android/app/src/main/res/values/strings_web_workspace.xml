@@ -1,0 +1,14 @@
+<resources>
+    <string name="web_workspace_title">Creative websites</string>
+    <string name="web_workspace_subtitle">Open a service and create using your own account.</string>
+    <string name="web_workspace_back">Back</string>
+    <string name="web_workspace_higgsfield">Higgsfield</string>
+    <string name="web_workspace_runway">Runway</string>
+    <string name="web_workspace_flow">Google Flow</string>
+    <string name="web_workspace_open">Open %1$s</string>
+    <string name="web_workspace_session">Your device opens the site in your browser or a compatible app. Sign in there if needed; Omni does not access your account or browser session.</string>
+    <string name="web_workspace_launch_error">No compatible app could open this site. Install or enable a browser and try again.</string>
+    <string name="web_workspace_workflow_title">Working between apps</string>
+    <string name="web_workspace_workflow">Prepare ideas in Omni, then copy them to the website. Save or share your finished files manually to use them elsewhere.</string>
+    <string name="web_workspace_billing">Website plans and developer API usage can have separate charges or credits. Check the service before generating; this page does not connect an API or transfer files automatically.</string>
+</resources>

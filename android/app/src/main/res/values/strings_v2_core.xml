@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_label">Omni phone control</string>
+    <string name="accessibility_service_description">Lets Omni read the visible screen and perform taps, typing and scrolling when you ask it to. Omni never records passwords or works in the background without an explicit request.</string>
+    <string name="notification_listener_label">Omni notification access</string>
+</resources>

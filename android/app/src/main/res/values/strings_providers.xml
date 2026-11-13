@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="providers_screen_subtitle">Bring your own key. Requests go directly to your provider.</string>
+
+    <string name="providers_empty_title">No providers yet</string>
+    <string name="providers_empty_body">Add a profile to connect Omni to an AI service. The key stays encrypted on this device and is sent only to that provider.</string>
+
+    <string name="providers_section_profiles">Profiles</string>
+    <string name="providers_default_badge">Active</string>
+    <string name="providers_status_ready">Configured</string>
+    <string name="providers_status_needs_key">Needs key</string>
+    <string name="providers_more_options_for">More options for %1$s</string>
+    <string name="providers_action_activate">Set active</string>
+
+    <string name="providers_local_dev_title">Local development is on</string>
+    <string name="providers_local_dev_body">HTTP endpoints are allowed for local and private hosts only.</string>
+
+    <string name="providers_section_connection">Connection</string>
+    <string name="providers_section_model">Model</string>
+    <string name="providers_section_behavior">Behavior</string>
+    <string name="providers_section_advanced">Advanced</string>
+
+    <string name="providers_label_type">Provider type</string>
+    <string name="providers_label_organization">Organization or project ID</string>
+    <string name="providers_label_temperature">Temperature</string>
+    <string name="providers_label_max_tokens">Max output tokens</string>
+    <string name="providers_label_timeout">Timeout</string>
+    <string name="providers_label_custom_headers">Custom headers</string>
+
+    <string name="providers_helper_type">Pick a preset to fill compatible URLs, then adjust anything you need.</string>
+    <string name="providers_helper_name">The name shown in chats and settings.</string>
+    <string name="providers_helper_base_url">API root, usually ending in /v1. HTTPS is required unless local development is on.</string>
+    <string name="providers_helper_endpoint_path">Appended to the base URL, for example /chat/completions.</string>
+    <string name="providers_helper_api_key">Stored encrypted on this device. Required by most hosted providers.</string>
+    <string name="providers_helper_organization">Optional. Used only by providers that accept an organization or project ID.</string>
+    <string name="providers_helper_model">The exact model identifier from the provider, for example meta/llama-3.1-70b-instruct.</string>
+    <string name="providers_helper_temperature">Between 0 and 2. Lower values are focused; higher values are more varied.</string>
+    <string name="providers_helper_max_tokens">Between 1 and 65,536. The most tokens the model may return in one reply.</string>
+    <string name="providers_helper_token_parameter">The request field that carries the output limit. Automatic works for most providers.</string>
+    <string name="providers_helper_system_prompt">Instructions sent with every request from this profile.</string>
+    <string name="providers_switch_tools">Tool calling</string>
+    <string name="providers_helper_tools">Enable for models with function calling. Testing sends a small extra request and can use tokens.</string>
+    <string name="providers_tools_declared">Tool calls enabled, support not yet verified. Phone actions also need agent mode and relevant permissions.</string>
+    <string name="providers_chat_only">Chat only: this profile cannot use phone tools while tool calls are disabled.</string>
+    <string name="providers_tool_test_confirmed">Connection succeeded and the model returned a harmless tool call. Phone actions still need agent mode and permissions.</string>
+    <string name="providers_tool_test_unconfirmed">Connection succeeded, but tool calling could not be verified. The model may be chat-only or the probe may have failed.</string>
+    <string name="providers_helper_vision">Allows images to be sent to models that support them.</string>
+    <string name="providers_helper_streaming">Shows replies while they are generated.</string>
+    <string name="providers_helper_timeout">Between 5 and 300 seconds. The request is cancelled after this wait.</string>
+    <string name="providers_helper_custom_headers">One Header: Value pair per line. Added to every request from this profile.</string>
+    <string name="providers_helper_enabled">Disabled profiles stay saved but cannot be used in chats.</string>
+
+    <string name="providers_show_api_key">Show API key</string>
+    <string name="providers_hide_api_key">Hide API key</string>
+
+    <string name="providers_testing_body">Sending a small test request to the provider.</string>
+    <string name="providers_test_success_title">Connection verified</string>
+    <string name="providers_test_success_body">The provider answered the test request. Test again after changing any settings.</string>
+    <string name="providers_test_failed_title">Test failed</string>
+    <string name="providers_test_failed_body">Check the base URL, API key, and model ID, then try again.</string>
+    <string name="providers_save_failed_title">Could not save provider</string>
+    <string name="providers_error_endpoint">The endpoint is not allowed. Check the base URL and path; HTTP needs local development.</string>
+    <string name="providers_error_validation">Check the required fields, numeric ranges, and custom header lines.</string>
+    <string name="providers_error_auth">The provider rejected the API key.</string>
+    <string name="providers_error_network">The provider could not be reached. Check the connection and base URL.</string>
+    <string name="providers_error_timeout">The provider took too long to answer. Increase the timeout or try again.</string>
+    <string name="providers_error_quota">The provider reports a rate limit or exhausted quota. Try again later.</string>
+    <string name="providers_error_model">This model is not available for the current key. Check the model ID.</string>
+
+    <string name="providers_save_provider">Save provider</string>
+    <string name="providers_save_changes">Save changes</string>
+
+    <string name="providers_type_nvidia">NVIDIA NIM</string>
+    <string name="providers_type_openai">OpenAI</string>
+    <string name="providers_type_groq">Groq</string>
+    <string name="providers_type_openrouter">OpenRouter</string>
+    <string name="providers_type_gemini">Google Gemini</string>
+    <string name="providers_type_ollama">Ollama</string>
+    <string name="providers_type_vllm">vLLM</string>
+    <string name="providers_type_custom">Custom OpenAI-compatible</string>
+
+    <string name="providers_no_model">No model selected</string>
+    <string name="providers_delete_body_named">“%1$s” will be removed from this device. Existing conversations remain, but this profile and its saved key cannot be recovered.</string>
+</resources>

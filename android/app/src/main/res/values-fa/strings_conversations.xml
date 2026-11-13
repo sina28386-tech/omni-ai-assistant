@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="conversations_clear_search">پاک کردن جستجو</string>
+    <string name="conversations_empty_archived_title">هیچ گفتگوی بایگانی‌شده‌ای نیست</string>
+    <string name="conversations_empty_archived_body">برای کنار گذاشتن یک گفتگو از فهرست اصلی، آن را از منوی گفتگو بایگانی کنید.</string>
+    <string name="conversations_empty_archived_locked_body">گفتگوهای بایگانی‌شده اینجا نمایش داده می‌شوند.</string>
+    <string name="conversations_view_current">مشاهده گفتگوهای فعلی</string>
+    <string name="conversations_empty_search_title">نتیجه‌ای پیدا نشد</string>
+    <string name="conversations_empty_search_body">هیچ گفتگویی با «%1$s» مطابقت ندارد.</string>
+    <string name="conversations_updated_at">به‌روزرسانی: %1$s</string>
+    <string name="conversations_untitled">گفتگوی بدون عنوان</string>
+    <string name="conversations_title_label">عنوان</string>
+    <string name="conversations_cannot_be_undone">این عمل قابل بازگشت نیست.</string>
+    <string name="conversations_clear_all_warning">همه گفتگوها و پیوست‌هایشان، از جمله گفتگوهای بایگانی‌شده، برای همیشه حذف می‌شوند.</string>
+    <string name="conversations_delete_title">گفتگو حذف شود؟</string>
+</resources>

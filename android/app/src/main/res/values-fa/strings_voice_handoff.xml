@@ -1,0 +1,4 @@
+<resources>
+    <string name="voice_agent_handoff_hint">بگو چه کاری می‌خواهی. مراحل انجام کار، تأییدهای لازم و نتیجه در گفت‌وگو دیده می‌شود.</string>
+    <string name="voice_agent_send">ادامه در گفت‌وگو</string>
+</resources>

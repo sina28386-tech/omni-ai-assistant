@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="devices_subtitle">اتصال‌ها و قابلیت‌ها، یک‌جا.</string>
+    <string name="devices_page_title">این گوشی</string>
+    <string name="devices_this_device_section">این گوشی</string>
+    <string name="devices_hero_android">اندروید %1$s</string>
+    <string name="devices_hero_summary">%1$s · %2$s</string>
+    <string name="devices_battery">باتری %1$d%%</string>
+    <string name="devices_battery_charging">در حال شارژ · %1$d%%</string>
+    <string name="devices_battery_unknown">وضعیت باتری در دسترس نیست</string>
+    <string name="devices_master_title">کنترل کامل گوشی</string>
+    <string name="devices_master_summary">به Omni اجازه می‌دهد با دسترسی‌پذیری روی صفحه ضربه بزند، تایپ کند و صفحه را بخواند. به‌طور پیش‌فرض خاموش است.</string>
+    <string name="devices_master_off_hint">برای استفاده از این قابلیت، کنترل کامل گوشی را روشن کنید.</string>
+
+    <string name="devices_group_communication">ارتباطات</string>
+    <string name="devices_group_content">محتوا</string>
+    <string name="devices_group_system">سیستم</string>
+
+    <string name="devices_cap_phone_title">تماس تلفنی</string>
+    <string name="devices_cap_phone_why">وقتی بخواهید تماس بگیرید و وضعیت تماس را بخوانید.</string>
+    <string name="devices_cap_sms_title">پیام‌ها</string>
+    <string name="devices_cap_sms_why">وقتی بخواهید پیامک بخوانید و بفرستید.</string>
+    <string name="devices_cap_contacts_title">مخاطبین</string>
+    <string name="devices_cap_contacts_why">برای پیدا کردن مخاطب درست هنگام تماس یا پیام.</string>
+    <string name="devices_cap_call_log_title">سابقه تماس</string>
+    <string name="devices_cap_call_log_why">برای پاسخ به پرسش‌ها درباره تماس‌های اخیر.</string>
+    <string name="devices_cap_media_title">عکس و رسانه</string>
+    <string name="devices_cap_media_why">برای پیدا کردن و اشتراک عکس، ویدیو و صدا از این گوشی.</string>
+    <string name="devices_cap_storage_title">فایل‌ها و حافظه</string>
+    <string name="devices_cap_storage_why">برای مرور فایل‌های محلی و پیوست کردن سندی که انتخاب می‌کنید.</string>
+    <string name="devices_cap_camera_title">دوربین</string>
+    <string name="devices_cap_camera_why">وقتی بخواهید عکس بگیرید.</string>
+    <string name="devices_cap_calendar_title">تقویم</string>
+    <string name="devices_cap_calendar_why">برای خواندن و ساختن رویداد در تقویم.</string>
+    <string name="devices_cap_location_title">موقعیت مکانی</string>
+    <string name="devices_cap_location_why">برای پاسخ‌های نزدیک به موقعیت تقریبی شما.</string>
+    <string name="devices_cap_write_settings_title">تنظیمات سیستم</string>
+    <string name="devices_cap_write_settings_why">تغییر تنظیماتی مانند روشنایی فقط وقتی بخواهید.</string>
+    <string name="devices_cap_dnd_title">مزاحم نشوید</string>
+    <string name="devices_cap_dnd_why">برای روشن یا خاموش کردن اعلان‌ها وقتی بخواهید.</string>
+    <string name="devices_cap_accessibility_title">کنترل دسترسی‌پذیری</string>
+    <string name="devices_cap_accessibility_why">ضربه، تایپ و پیمایش در برنامه‌های دیگر. نیازمند کنترل کامل گوشی.</string>
+    <string name="devices_cap_notification_access_title">دسترسی به اعلان‌ها</string>
+    <string name="devices_cap_notification_access_why">خواندن و پاسخ به اعلان‌ها. نیازمند کنترل کامل گوشی.</string>
+    <string name="devices_cap_notifications_title">اعلان‌ها</string>
+    <string name="devices_cap_notifications_why">ارسال اعلان و هشدار از طرف Omni.</string>
+
+    <string name="devices_status_connected">متصل</string>
+    <string name="devices_status_offline">آفلاین</string>
+    <string name="devices_status_checking">در حال بررسی…</string>
+    <string name="devices_status_not_configured">پیکربندی نشده</string>
+    <string name="devices_status_on">فعال</string>
+    <string name="devices_status_unavailable">در دسترس نیست</string>
+    <string name="devices_status_not_checked">بررسی نشده</string>
+    <string name="devices_grant">اجازه دادن</string>
+
+    <string name="devices_ai_section">سرویس‌های هوش مصنوعی</string>
+    <string name="devices_ai_ready">آماده</string>
+    <string name="devices_ai_needs_setup">نیازمند پیکربندی</string>
+    <string name="devices_ai_empty">هنوز پروفایل API ندارید. برای شروع گفتگو یک سرویس اضافه کنید.</string>
+    <string name="devices_ai_no_active">پروفایل‌ها آماده‌اند، اما سرویس پیش‌فرض انتخاب نشده است.</string>
+
+    <string name="devices_pc_section">پل رایانه</string>
+    <string name="devices_pc_open">باز کردن کنسول هرمس</string>
+    <string name="devices_pc_check">بررسی</string>
+    <string name="devices_pc_checking_desc">در حال ارتباط با پل رایانه…</string>
+    <string name="devices_pc_address_missing">نشانی تنظیم نشده</string>
+    <string name="devices_pc_auth_ready">توکن ذخیره شده</string>
+    <string name="devices_pc_auth_missing">توکن تنظیم نشده</string>
+    <string name="devices_pc_settings_hint">نشانی و توکن رایانه را در تنظیمات وارد کنید.</string>
+    <string name="devices_pc_error">اتصال برقرار نشد: %1$s</string>
+
+    <string name="devices_on_phone_section">روی این گوشی</string>
+    <string name="devices_report_row">اطلاعات دستگاه</string>
+    <string name="devices_report_row_subtitle">مدل، باتری، حافظه و شبکه</string>
+    <string name="devices_find_file_row">جستجوی فایل‌ها</string>
+    <string name="devices_find_file_subtitle">جستجو در حافظه محلی با Omni</string>
+
+    
+    <string name="hermes_checking">در حال بررسی اتصال…</string>
+    <string name="hermes_testing">در حال آزمایش…</string>
+    <string name="hermes_trusted_network_note">پل رایانه را فقط روی یک شبکه محلی قابل‌اعتماد استفاده کنید.</string>
+    <string name="hermes_status_paused">متوقف</string>
+    <string name="hermes_status_ready">آماده</string>
+    <string name="hermes_status_failed">ناموفق</string>
+    <string name="hermes_status_not_checked">بررسی نشده</string>
+    <string name="hermes_status_not_configured">پیکربندی نشده</string>
+    <string name="hermes_status_not_configured_body">برای اتصال، نشانی پل و توکن رایانه را اضافه کنید.</string>
+    <string name="hermes_status_ready_body">پیکربندی معتبر به نظر می‌رسد. برای اطمینان از دسترسی، آزمایش اتصال را اجرا کنید.</string>
+    <string name="hermes_connection_section">اتصال</string>
+    <string name="hermes_status_section">وضعیت</string>
+    <string name="hermes_actions_section">عملیات رایانه</string>
+
+    <string name="hermes_config_url">نشانی رایانه</string>
+    <string name="hermes_config_token">توکن دسترسی</string>
+    <string name="hermes_config_token_set">به‌صورت امن ذخیره شده</string>
+    <string name="hermes_config_token_missing">تنظیم نشده</string>
+    <string name="hermes_config_not_set">تنظیم نشده</string>
+    <string name="hermes_config_invalid">نشانی نامعتبر</string>
+    <string name="hermes_setup_title">رایانه را متصل کنید</string>
+    <string name="hermes_setup_body">اسکریپت hermes_pc_agent.py را با متغیر HERMES_TOKEN اجرا کنید، سپس همان نشانی و توکن را در تنظیمات وارد کنید.</string>
+    <string name="hermes_setup_open_settings">باز کردن تنظیمات</string>
+    <string name="hermes_token_never_shown">توکن هرگز نمایش داده یا ثبت نمی‌شود. خطاها پاک‌سازی می‌شوند.</string>
+    <string name="hermes_action_needs_setup">ابتدا نشانی و توکن رایانه را در تنظیمات وارد کنید.</string>
+    <string name="hermes_error_unknown">مشکلی پیش آمد. دوباره تلاش کنید.</string>
+    <string name="hermes_test">آزمایش اتصال</string>
+    <string name="hermes_test_again">آزمایش دوباره</string>
+
+    <string name="hermes_action_sys_info_sub">سیستم، پردازنده و حافظه</string>
+    <string name="hermes_action_desktop_files_sub">فهرست ۱۵ مورد اول دسکتاپ</string>
+    <string name="hermes_action_open_notepad">باز کردن Notepad</string>
+    <string name="hermes_action_open_notepad_sub">اجرای یک برنامه مجاز روی رایانه</string>
+    <string name="hermes_confirm_open_app">Notepad روی رایانه باز شود؟ این کار نمای دسکتاپ را تغییر می‌دهد.</string>
+    <string name="hermes_action_screenshot">گرفتن تصویر صفحه</string>
+    <string name="hermes_action_screenshot_sub">ثبت تصویر نمایشگر اصلی</string>
+    <string name="hermes_confirm_screenshot">از صفحه رایانه تصویر گرفته شود؟ تصویر روی رایانه ذخیره می‌شود.</string>
+    <string name="hermes_action_processes">فهرست پردازش‌ها</string>
+    <string name="hermes_action_processes_sub">نمایش پردازش‌های پرمصرف</string>
+    <string name="hermes_action_disk">فضای دیسک</string>
+    <string name="hermes_action_disk_sub">فضای استفاده‌شده و آزاد هر درایو</string>
+    <string name="hermes_risk_note">این عملیات روی رایانه شما اجرا می‌شوند. برای تصویر صفحه و اجرای برنامه، اول تأیید گرفته می‌شود.</string>
+
+    <string name="hermes_action_failed">عملیات ناموفق بود</string>
+    <string name="hermes_result_title">نتیجه</string>
+    <string name="hermes_connection_failed_detail">مطمئن شوید عامل روی رایانه اجرا می‌شود، نشانی درست است و توکن روی هر دو دستگاه یکسان است.</string>
+    <string name="hermes_confirm_title">تأیید عملیات رایانه</string>
+    <string name="hermes_risk_high">ریسک بالا</string>
+    <string name="hermes_confirm_generic">این عملیات روی رایانه اجرا شود؟</string>
+    <string name="hermes_run_on_pc">اجرا روی رایانه</string>
+
+    <string name="hermes_pc_system_line">%1$s (%2$s)</string>
+    <plurals name="hermes_desktop_file_count">
+        <item quantity="one">%1$d فایل دسکتاپ</item>
+        <item quantity="other">%1$d فایل دسکتاپ</item>
+    </plurals>
+    <string name="hermes_executing">در حال اجرا روی رایانه…</string>
+    <string name="hermes_execute_failed">ارتباط با پل رایانه برقرار نشد: %1$s</string>
+
+    
+    <string name="voice_error_body">دوباره تلاش کنید یا از در دسترس بودن سرویس تشخیص گفتار مطمئن شوید.</string>
+    <string name="voice_stop_listening">توقف شنیدن</string>
+    <string name="voice_speech_unavailable_body">سرویس تشخیص گفتار را در تنظیمات اندروید نصب یا فعال کنید و دوباره تلاش کنید.</string>
+    <string name="voice_permission_denied_body">برای تشخیص گفتار به دسترسی میکروفون نیاز است. می‌توانید همین حالا اجازه دهید.</string>
+    <string name="voice_allow_microphone">اجازهٔ میکروفون</string>
+    <string name="voice_waiting_response">در انتظار پاسخ…</string>
+    <string name="voice_auto_send_on">ارسال خودکار فعال است</string>
+    </resources>

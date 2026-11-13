@@ -1,0 +1,21 @@
+.web-workspace { width: 100%; max-width: 1100px; margin-inline: auto; padding: 40px 32px; color: var(--ink); }
+.web-workspace__header { max-width: 680px; margin-block-end: 36px; }
+.web-workspace__eyebrow { display: inline-flex; align-items: center; gap: 8px; color: var(--ember); font-size: 12px; font-weight: 600; }
+.web-workspace__eyebrow svg { width: 16px; height: 16px; }
+.web-workspace h1 { margin-block: 12px 8px; font-size: 26px; font-weight: 600; }
+.web-workspace p { color: var(--ink-2); font-size: 13px; line-height: 1.8; }
+.web-workspace h2 { font-size: 14px; font-weight: 600; }
+.web-workspace__list { list-style: none; margin: 12px 0 0; padding: 0; border-block-start: 1px solid var(--line); }
+.web-workspace__list li { display: flex; align-items: center; gap: 16px; padding: 20px 0; border-block-end: 1px solid var(--line); }
+.web-workspace__icon { display: grid; place-items: center; flex: none; width: 44px; height: 44px; border-radius: 12px; background: var(--surface-2); color: var(--ember); }
+.web-workspace__icon svg { width: 21px; height: 21px; }
+.web-workspace__service { flex: 1; min-width: 0; }
+.web-workspace__service h3 { width: fit-content; font-size: 15px; font-weight: 600; }
+.web-workspace__service p { margin-block-start: 3px; }
+.web-workspace__link { display: inline-flex; align-items: center; justify-content: center; gap: 7px; flex: none; min-height: 44px; padding: 8px 12px; border: 1px solid var(--line-strong); border-radius: 8px; color: var(--ink); font-size: 12px; font-weight: 600; text-decoration: none; }
+.web-workspace__link:hover { background: var(--surface-2); }
+.web-workspace__link:focus-visible { outline: 2px solid var(--ember); outline-offset: 3px; }
+.web-workspace__link svg { width: 15px; height: 15px; }
+.web-workspace__notes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; margin-block-start: 36px; }
+.web-workspace__notes p { margin-block-start: 8px; }
+@media (max-width: 650px) { .web-workspace { padding: 24px 16px; } .web-workspace__notes { grid-template-columns: 1fr; gap: 20px; } .web-workspace__list li { flex-wrap: wrap; } .web-workspace__link { margin-inline-start: 60px; } }

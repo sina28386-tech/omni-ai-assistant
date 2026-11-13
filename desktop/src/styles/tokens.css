@@ -1,0 +1,135 @@
+/* ==========================================================================
+   OMNI — design tokens
+   ODL: warm neutrals and one terracotta accent. Desktop source of truth.
+   Mobile mappings are documented in design/tokens.json, not synchronized.
+   ========================================================================== */
+
+:root {
+  --font-ui: "Vazirmatn", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --font-mono: "Cascadia Code", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+
+  --text-2xs: 10px;
+  --text-xs: 11px;
+  --text-sm: 12px;
+  --text-md: 13px;
+  --text-base: 15px;
+  --text-lg: 17px;
+  --text-xl: 20px;
+  --text-2xl: 24px;
+  --text-3xl: 30px;
+  --text-4xl: 38px;
+  --text-5xl: 48px;
+
+  --lh-tight: 1.2;
+  --lh-snug: 1.4;
+  --lh-base: 1.65;
+  --lh-loose: 1.8;
+
+  --space-0: 0;
+  --space-1: 2px;
+  --space-2: 4px;
+  --space-3: 8px;
+  --space-4: 12px;
+  --space-5: 16px;
+  --space-6: 20px;
+  --space-7: 24px;
+  --space-8: 32px;
+  --space-9: 40px;
+  --space-10: 56px;
+  --space-11: 72px;
+
+  --radius-xs: 6px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-2xl: 28px;
+  --radius-pill: 999px;
+
+  --rail-w: 68px;
+  --sidebar-w: 292px;
+  --inspector-w: 324px;
+
+  --dur-fast: 120ms;
+  --dur-base: 200ms;
+  --dur-slow: 320ms;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+
+  /* Light — warm paper, not white. */
+  --canvas: #f7f6f2;
+  --surface: #fffefa;
+  --surface-2: #eeede8;
+  --surface-3: #e7e5df;
+  --surface-4: #dedbd3;
+  --ink: #262522;
+  --ink-2: #5d564f;
+  --ink-3: #675e55;
+  --ink-inverse: #f7f6f2;
+  --line: #e6dfd5;
+  /* Strong boundaries: >= 3:1 against all five neutral surfaces. */
+  --line-strong: #81796f;
+  --ember: #984933;
+  --ember-hover: #8a432f;
+  --ember-soft: #efe2da;
+  --ember-ink: #5a1b09;
+  --on-ember: #ffffff;
+  --ember-glow: rgba(152, 73, 51, 0.12);
+  --sage: #2f6b57;
+  --sage-soft: #ddece6;
+  --amber: #8a5a00;
+  --amber-soft: #ffebc4;
+  --rose: #b3261e;
+  --rose-soft: #f9dedc;
+  --steel: #2f5f8a;
+  --steel-soft: #e1ebf5;
+  --focus: #8a432f;
+  --shadow-float: 0 18px 60px rgba(26, 22, 19, 0.16), 0 2px 8px rgba(26, 22, 19, 0.06);
+  --scrim: rgba(26, 22, 19, 0.42);
+  --code-bg: #eeede8;
+  --selection: rgba(152, 73, 51, 0.18);
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --canvas: #1d1d1b;
+  --surface: #282825;
+  --surface-2: #242421;
+  --surface-3: #343430;
+  --surface-4: #41413b;
+  --ink: #f3eee7;
+  --ink-2: #c6beb4;
+  --ink-3: #b3aca2;
+  --ink-inverse: #171412;
+  --line: #383833;
+  --line-strong: #92928a;
+  --ember: #e8a28b;
+  --ember-hover: #f1b5a1;
+  --ember-soft: #3d160b;
+  --ember-ink: #ffd8cc;
+  --on-ember: #2a0c04;
+  --ember-glow: rgba(232, 162, 139, 0.14);
+  --sage: #7bc8a8;
+  --sage-soft: #17352b;
+  --amber: #e7b45a;
+  --amber-soft: #3d2c0c;
+  --rose: #ff7a7a;
+  --rose-soft: #3f1111;
+  --steel: #93c5fd;
+  --steel-soft: #14283d;
+  --focus: #ffb59f;
+  --shadow-float: 0 24px 80px rgba(0, 0, 0, 0.55), 0 2px 10px rgba(0, 0, 0, 0.35);
+  --scrim: rgba(0, 0, 0, 0.62);
+  --code-bg: #242421;
+  --selection: rgba(232, 162, 139, 0.24);
+  color-scheme: dark;
+}
+
+[data-density="compact"] {
+  --text-base: 14px;
+  --space-5: 12px;
+  --space-6: 16px;
+  --space-7: 20px;
+  --space-8: 24px;
+  --space-9: 32px;
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bots_workspace_title">Bots</string>
+    <string name="bots_workspace_subtitle">Named coworkers with their own role and conversation.</string>
+    <string name="bots_workspace_entry_subtitle">Create a coworker and return to its conversation</string>
+    <string name="bots_workspace_add">Create a bot</string>
+    <string name="bots_workspace_edit">Edit bot</string>
+    <string name="bots_workspace_back">Back</string>
+    <string name="bots_workspace_cancel">Cancel</string>
+    <string name="bots_workspace_save">Save bot</string>
+    <string name="bots_workspace_saving">Saving…</string>
+    <string name="bots_workspace_opening">Opening conversation…</string>
+    <string name="bots_workspace_loading">Loading your bots…</string>
+    <string name="bots_workspace_empty_title">Make room for a coworker</string>
+    <string name="bots_workspace_empty_body">Give a bot a name and a clear role, then use its conversation for ongoing work.</string>
+    <string name="bots_workspace_scope">Bots work in this app. Their conversation provides context; phone actions use the existing tools, permissions and confirmations.</string>
+    <string name="bots_workspace_agent_on">Phone tools follow your model and device permissions.</string>
+    <string name="bots_workspace_agent_off">Agent tools are off in Settings. Bots can still chat.</string>
+    <string name="bots_workspace_access">Review phone access</string>
+    <string name="bots_workspace_providers">Open AI providers</string>
+    <string name="bots_workspace_no_provider">Set up an enabled model in AI providers before creating a bot.</string>
+    <string name="bots_workspace_model_label">Base model</string>
+    <string name="bots_workspace_choose_model">Choose a configured model</string>
+    <string name="bots_workspace_model_note">The bot keeps its own copy of this model configuration. Your default provider stays the same.</string>
+    <string name="bots_workspace_name_label">Bot name</string>
+    <string name="bots_workspace_name_hint">For example, Research partner</string>
+    <string name="bots_workspace_role_label">Role and instructions</string>
+    <string name="bots_workspace_role_hint">Describe its job, how it should work and what a good result looks like.</string>
+    <string name="bots_workspace_role_note">Instructions guide the bot; they do not grant new phone permissions.</string>
+    <string name="bots_workspace_chat_new">Start conversation</string>
+    <string name="bots_workspace_chat_continue">Continue conversation</string>
+    <string name="bots_workspace_chat_only">This model is configured for chat only.</string>
+    <string name="bots_workspace_disabled">This bot’s model is disabled. Review it in AI providers.</string>
+    <string name="bots_workspace_delete">Delete bot</string>
+    <string name="bots_workspace_delete_title">Delete %1$s?</string>
+    <string name="bots_workspace_delete_body">The bot configuration will be removed. Its chats stay in History; choose another provider to continue them.</string>
+    <string name="bots_workspace_error_name_required">Give the bot a name.</string>
+    <string name="bots_workspace_error_name_long">Use a name of 60 characters or fewer.</string>
+    <string name="bots_workspace_error_role_required">Describe the bot’s role.</string>
+    <string name="bots_workspace_error_role_long">Keep instructions within 12,000 characters.</string>
+    <string name="bots_workspace_error_provider">Choose an enabled model with a model ID.</string>
+    <string name="bots_workspace_error_missing">This bot is no longer available.</string>
+    <string name="bots_workspace_error_generic">The change could not be completed. Try again.</string>
+    <string name="bots_workspace_dismiss_error">Dismiss</string>
+</resources>

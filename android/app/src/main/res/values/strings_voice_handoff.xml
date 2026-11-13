@@ -1,0 +1,4 @@
+<resources>
+    <string name="voice_agent_handoff_hint">Say what you need. Your conversation will show the work, ask for approval when needed, and keep the result.</string>
+    <string name="voice_agent_send">Continue in conversation</string>
+</resources>

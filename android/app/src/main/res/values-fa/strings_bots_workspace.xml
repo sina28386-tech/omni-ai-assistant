@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bots_workspace_title">بات‌ها</string>
+    <string name="bots_workspace_subtitle">همکارانی با نام، نقش و گفتگوی مستقل.</string>
+    <string name="bots_workspace_entry_subtitle">همکار بسازید و گفتگویش را ادامه دهید</string>
+    <string name="bots_workspace_add">ساخت بات</string>
+    <string name="bots_workspace_edit">ویرایش بات</string>
+    <string name="bots_workspace_back">بازگشت</string>
+    <string name="bots_workspace_cancel">انصراف</string>
+    <string name="bots_workspace_save">ذخیرهٔ بات</string>
+    <string name="bots_workspace_saving">در حال ذخیره…</string>
+    <string name="bots_workspace_opening">در حال باز کردن گفتگو…</string>
+    <string name="bots_workspace_loading">در حال خواندن بات‌ها…</string>
+    <string name="bots_workspace_empty_title">برای یک همکار جا باز کنید</string>
+    <string name="bots_workspace_empty_body">به بات نام و نقش مشخص بدهید و کارهای ادامه‌دار را در گفتگویش پیش ببرید.</string>
+    <string name="bots_workspace_scope">بات‌ها در این برنامه کار می‌کنند. گفتگو زمینهٔ کارشان را نگه می‌دارد و کارهای گوشی با همان ابزارها، مجوزها و تأییدهای موجود انجام می‌شود.</string>
+    <string name="bots_workspace_agent_on">ابزارهای گوشی تابع مدل و مجوزهای دستگاه هستند.</string>
+    <string name="bots_workspace_agent_off">ابزارهای دستیار در تنظیمات خاموش‌اند. بات‌ها همچنان می‌توانند گفتگو کنند.</string>
+    <string name="bots_workspace_access">بررسی دسترسی‌های گوشی</string>
+    <string name="bots_workspace_providers">سرویس‌های هوش مصنوعی</string>
+    <string name="bots_workspace_no_provider">پیش از ساخت بات، یک مدل فعال در بخش سرویس‌ها تنظیم کنید.</string>
+    <string name="bots_workspace_model_label">مدل پایه</string>
+    <string name="bots_workspace_choose_model">یک مدل تنظیم‌شده انتخاب کنید</string>
+    <string name="bots_workspace_model_note">بات نسخهٔ مستقلی از تنظیمات این مدل دارد. سرویس پیش‌فرض شما تغییر نمی‌کند.</string>
+    <string name="bots_workspace_name_label">نام بات</string>
+    <string name="bots_workspace_name_hint">مثلاً همکار پژوهشگر</string>
+    <string name="bots_workspace_role_label">نقش و دستورها</string>
+    <string name="bots_workspace_role_hint">کار بات، شیوهٔ انجام آن و نتیجهٔ مطلوب را توضیح دهید.</string>
+    <string name="bots_workspace_role_note">دستورها بات را راهنمایی می‌کنند و مجوز تازه‌ای به گوشی نمی‌دهند.</string>
+    <string name="bots_workspace_chat_new">شروع گفتگو</string>
+    <string name="bots_workspace_chat_continue">ادامهٔ گفتگو</string>
+    <string name="bots_workspace_chat_only">این مدل فقط برای گفتگو تنظیم شده است.</string>
+    <string name="bots_workspace_disabled">مدل این بات خاموش است. آن را در بخش سرویس‌ها بررسی کنید.</string>
+    <string name="bots_workspace_delete">حذف بات</string>
+    <string name="bots_workspace_delete_title">%1$s حذف شود؟</string>
+    <string name="bots_workspace_delete_body">تنظیمات بات حذف می‌شود. گفتگوهایش در تاریخچه می‌مانند و برای ادامهٔ آن‌ها می‌توانید سرویس دیگری انتخاب کنید.</string>
+    <string name="bots_workspace_error_name_required">برای بات یک نام بنویسید.</string>
+    <string name="bots_workspace_error_name_long">نام باید حداکثر ۶۰ نویسه باشد.</string>
+    <string name="bots_workspace_error_role_required">نقش بات را توضیح دهید.</string>
+    <string name="bots_workspace_error_role_long">دستورها باید حداکثر ۱۲٬۰۰۰ نویسه باشند.</string>
+    <string name="bots_workspace_error_provider">یک مدل فعال با شناسهٔ مدل انتخاب کنید.</string>
+    <string name="bots_workspace_error_missing">این بات دیگر در دسترس نیست.</string>
+    <string name="bots_workspace_error_generic">انجام این تغییر ممکن نشد. دوباره تلاش کنید.</string>
+    <string name="bots_workspace_dismiss_error">بستن</string>
+</resources>

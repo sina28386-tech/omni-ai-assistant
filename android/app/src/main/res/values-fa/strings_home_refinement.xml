@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_refinement_headline">چه کاری انجام دهیم؟</string>
+    <string name="home_refinement_choose_model">انتخاب مدل</string>
+    <string name="home_refinement_model_selected">مدل انتخاب‌شده</string>
+    <string name="home_refinement_model_setup">برای شروع انتخاب کنید</string>
+    <string name="home_refinement_model_action">%1$s. باز کردن سرویس‌های هوش مصنوعی</string>
+    <string name="home_refinement_composer_hint">بپرسید یا کاری بخواهید…</string>
+    <string name="home_refinement_voice_action">باز کردن گفتگوی صوتی</string>
+    <string name="home_refinement_files_title">فایل‌ها را پیدا کن</string>
+    <string name="home_refinement_files_body">جستجوی فایل‌ها در این گوشی</string>
+    <string name="home_refinement_apps_title">برنامه‌ای را باز کن</string>
+    <string name="home_refinement_apps_body">اجرای برنامه‌ای که نیاز دارید</string>
+    <string name="home_refinement_alarm_title">زنگ هشدار بگذار</string>
+    <string name="home_refinement_alarm_body">زمان زنگ بعدی را انتخاب کنید</string>
+    <string name="home_refinement_access_title">دسترسی‌های گوشی</string>
+    <string name="home_refinement_access_agent_off">اجرای ابزارها خاموش است. دسترسی‌ها را بررسی کنید.</string>
+    <string name="home_refinement_access_control_off">کنترل صفحه خاموش است. قابلیت‌های گوشی را بررسی کنید.</string>
+    <string name="home_refinement_access_permission_needed">کنترل صفحه به دسترسی تسهیل‌پذیری نیاز دارد.</string>
+    <string name="home_refinement_access_enabled">دسترسی صفحه فعال است. دیگر مجوزها را بررسی کنید.</string>
+    <string name="home_refinement_recent_title">گفتگوهای اخیر</string>
+</resources>

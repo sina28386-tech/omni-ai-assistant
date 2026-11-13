@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="devices_subtitle">Connections and capabilities, all in one place.</string>
+    <string name="devices_page_title">This phone</string>
+    <string name="devices_this_device_section">This phone</string>
+    <string name="devices_hero_android">Android %1$s</string>
+    <string name="devices_hero_summary">%1$s · %2$s</string>
+    <string name="devices_battery">Battery %1$d%%</string>
+    <string name="devices_battery_charging">Charging · %1$d%%</string>
+    <string name="devices_battery_unknown">Battery status unavailable</string>
+    <string name="devices_master_title">Full phone control</string>
+    <string name="devices_master_summary">Let Omni tap, type and read the screen through Accessibility. Off unless you turn it on.</string>
+    <string name="devices_master_off_hint">Turn on Full phone control to use this.</string>
+
+    <string name="devices_group_communication">Communication</string>
+    <string name="devices_group_content">Content</string>
+    <string name="devices_group_system">System</string>
+
+    <string name="devices_cap_phone_title">Phone calls</string>
+    <string name="devices_cap_phone_why">Place calls and read call state when you ask.</string>
+    <string name="devices_cap_sms_title">Messages</string>
+    <string name="devices_cap_sms_why">Read and send text messages when you ask.</string>
+    <string name="devices_cap_contacts_title">Contacts</string>
+    <string name="devices_cap_contacts_why">Look up contacts to call or message the right person.</string>
+    <string name="devices_cap_call_log_title">Call history</string>
+    <string name="devices_cap_call_log_why">Review recent calls to answer questions about them.</string>
+    <string name="devices_cap_media_title">Photos &amp; media</string>
+    <string name="devices_cap_media_why">Find and share photos, videos and audio from this phone.</string>
+    <string name="devices_cap_storage_title">Files &amp; storage</string>
+    <string name="devices_cap_storage_why">Browse local files and attach documents you choose.</string>
+    <string name="devices_cap_camera_title">Camera</string>
+    <string name="devices_cap_camera_why">Take a photo when you ask for one.</string>
+    <string name="devices_cap_calendar_title">Calendar</string>
+    <string name="devices_cap_calendar_why">Read and create events in your calendar.</string>
+    <string name="devices_cap_location_title">Location</string>
+    <string name="devices_cap_location_why">Use your approximate location for nearby answers.</string>
+    <string name="devices_cap_write_settings_title">System settings</string>
+    <string name="devices_cap_write_settings_why">Change settings such as brightness only when asked.</string>
+    <string name="devices_cap_dnd_title">Do Not Disturb</string>
+    <string name="devices_cap_dnd_why">Turn interruptions on or off when you ask.</string>
+    <string name="devices_cap_accessibility_title">Accessibility control</string>
+    <string name="devices_cap_accessibility_why">Tap, type and scroll in other apps. Requires Full phone control.</string>
+    <string name="devices_cap_notification_access_title">Notification access</string>
+    <string name="devices_cap_notification_access_why">Read and reply to notifications. Requires Full phone control.</string>
+    <string name="devices_cap_notifications_title">Notifications</string>
+    <string name="devices_cap_notifications_why">Send notifications and alerts from Omni.</string>
+
+    <string name="devices_status_connected">Connected</string>
+    <string name="devices_status_offline">Offline</string>
+    <string name="devices_status_checking">Checking…</string>
+    <string name="devices_status_not_configured">Not configured</string>
+    <string name="devices_status_on">On</string>
+    <string name="devices_status_unavailable">Unavailable</string>
+    <string name="devices_status_not_checked">Not checked</string>
+    <string name="devices_grant">Grant</string>
+
+    <string name="devices_ai_section">AI services</string>
+    <string name="devices_ai_ready">Ready</string>
+    <string name="devices_ai_needs_setup">Needs setup</string>
+    <string name="devices_ai_empty">No API profile yet. Add a provider to start a conversation.</string>
+    <string name="devices_ai_no_active">Profiles are available, but no default provider is selected.</string>
+
+    <string name="devices_pc_section">PC bridge</string>
+    <string name="devices_pc_open">Open Hermes console</string>
+    <string name="devices_pc_check">Check</string>
+    <string name="devices_pc_checking_desc">Contacting the PC bridge…</string>
+    <string name="devices_pc_address_missing">Address not set</string>
+    <string name="devices_pc_auth_ready">Token saved</string>
+    <string name="devices_pc_auth_missing">Token missing</string>
+    <string name="devices_pc_settings_hint">Set the PC address and token in Settings.</string>
+    <string name="devices_pc_error">Could not connect: %1$s</string>
+
+    <string name="devices_on_phone_section">On this phone</string>
+    <string name="devices_report_row">Device information</string>
+    <string name="devices_report_row_subtitle">Model, battery, storage and network</string>
+    <string name="devices_find_file_row">Find files</string>
+    <string name="devices_find_file_subtitle">Search local storage with Omni</string>
+
+    
+    <string name="hermes_checking">Checking connection…</string>
+    <string name="hermes_testing">Testing…</string>
+    <string name="hermes_trusted_network_note">Use the PC bridge only on a trusted local network.</string>
+    <string name="hermes_status_paused">Paused</string>
+    <string name="hermes_status_ready">Ready</string>
+    <string name="hermes_status_failed">Failed</string>
+    <string name="hermes_status_not_checked">Not checked</string>
+    <string name="hermes_status_not_configured">Not configured</string>
+    <string name="hermes_status_not_configured_body">Add the PC bridge address and token to connect.</string>
+    <string name="hermes_status_ready_body">Configuration looks valid. Run a test to confirm the PC is reachable.</string>
+    <string name="hermes_connection_section">Connection</string>
+    <string name="hermes_status_section">Status</string>
+    <string name="hermes_actions_section">PC actions</string>
+
+    <string name="hermes_config_url">PC address</string>
+    <string name="hermes_config_token">Access token</string>
+    <string name="hermes_config_token_set">Saved securely</string>
+    <string name="hermes_config_token_missing">Not set</string>
+    <string name="hermes_config_not_set">Not set</string>
+    <string name="hermes_config_invalid">Invalid address</string>
+    <string name="hermes_setup_title">Connect your PC</string>
+    <string name="hermes_setup_body">Run scripts/hermes_pc_agent.py with HERMES_TOKEN set, then enter the same address and token in Settings.</string>
+    <string name="hermes_setup_open_settings">Open settings</string>
+    <string name="hermes_token_never_shown">The token is never displayed or logged. Errors are redacted.</string>
+    <string name="hermes_action_needs_setup">Set the PC address and token in Settings first.</string>
+    <string name="hermes_error_unknown">Something went wrong. Try again.</string>
+    <string name="hermes_test">Test connection</string>
+    <string name="hermes_test_again">Test again</string>
+
+    <string name="hermes_action_sys_info_sub">System, processor and memory</string>
+    <string name="hermes_action_desktop_files_sub">List the first 15 desktop items</string>
+    <string name="hermes_action_open_notepad">Open Notepad</string>
+    <string name="hermes_action_open_notepad_sub">Launch an allowlisted app on the PC</string>
+    <string name="hermes_confirm_open_app">Open Notepad on the PC? This changes what is visible on the desktop.</string>
+    <string name="hermes_action_screenshot">Take screenshot</string>
+    <string name="hermes_action_screenshot_sub">Capture the primary display</string>
+    <string name="hermes_confirm_screenshot">Capture the PC screen? The image is saved on the PC.</string>
+    <string name="hermes_action_processes">List processes</string>
+    <string name="hermes_action_processes_sub">Show the busiest processes</string>
+    <string name="hermes_action_disk">Disk space</string>
+    <string name="hermes_action_disk_sub">Used and free space per drive</string>
+    <string name="hermes_risk_note">These actions run on your PC. Screenshot and app launch ask for confirmation first.</string>
+
+    <string name="hermes_action_failed">Action failed</string>
+    <string name="hermes_result_title">Result</string>
+    <string name="hermes_connection_failed_detail">Check that the agent is running, the address matches, and the token is the same on both devices.</string>
+    <string name="hermes_confirm_title">Confirm PC action</string>
+    <string name="hermes_risk_high">High risk</string>
+    <string name="hermes_confirm_generic">Run this action on the PC?</string>
+    <string name="hermes_run_on_pc">Run on PC</string>
+
+    <string name="hermes_pc_system_line">%1$s (%2$s)</string>
+    <plurals name="hermes_desktop_file_count">
+        <item quantity="one">%1$d desktop file</item>
+        <item quantity="other">%1$d desktop files</item>
+    </plurals>
+    <string name="hermes_executing">Running on PC…</string>
+    <string name="hermes_execute_failed">Could not reach the PC bridge: %1$s</string>
+
+    
+    <string name="voice_error_body">Try again, or check that a speech recognition service is available.</string>
+    <string name="voice_stop_listening">Stop listening</string>
+    <string name="voice_speech_unavailable_body">Install or enable a speech recognition service in Android settings, then try again.</string>
+    <string name="voice_permission_denied_body">Microphone access is needed to recognize your speech. You can allow it now.</string>
+    <string name="voice_allow_microphone">Allow microphone</string>
+    <string name="voice_waiting_response">Waiting for a response…</string>
+    <string name="voice_auto_send_on">Auto-send is on</string>
+    </resources>

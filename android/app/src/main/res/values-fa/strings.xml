@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_auto_type_apps">تایپ خودکار در برنامه‌ها</string>
+    <string name="settings_auto_type_apps_summary">تایپ در کادر فعالِ غیررمز بدون تأیید جداگانه انجام می‌شود. لمس دکمه و ارسال همچنان تأیید می‌خواهد.</string>
+    <string name="app_name">دستیار هوش مصنوعی اُمنی</string>
+    <string name="nav_providers">سرویس‌ها</string><string name="nav_settings">تنظیمات</string>
+    <string name="new_chat">گفتگوی جدید</string><string name="conversations">گفتگوها</string><string name="search_conversations">جستجو در گفتگوها</string><string name="no_conversations">هنوز گفتگویی ندارید</string><string name="start_first_chat">برای شروع، یک گفتگو بسازید و یک سرویس هوش مصنوعی انتخاب کنید.</string>
+    <string name="pinned">سنجاق‌شده</string><string name="rename">تغییر نام</string><string name="archive">بایگانی</string><string name="unarchive">خروج از بایگانی</string><string name="pin">سنجاق</string><string name="unpin">برداشتن سنجاق</string><string name="delete">حذف</string><string name="cancel">لغو</string><string name="save">ذخیره</string><string name="close">بستن</string><string name="retry">تلاش دوباره</string><string name="stop">توقف</string><string name="send">ارسال</string>
+    <string name="message_hint">پیام خود را بنویسید…</string><string name="providers">سرویس‌های هوش مصنوعی</string><string name="add_provider">افزودن سرویس</string><string name="edit_provider">ویرایش سرویس</string><string name="duplicate_provider">کپی پروفایل</string><string name="test_connection">آزمایش اتصال</string><string name="testing_connection">در حال آزمایش…</string><string name="profile_name">نام پروفایل</string><string name="base_url">آدرس پایه API</string><string name="api_key">کلید API</string><string name="api_key_unchanged">برای حفظ کلید فعلی، خالی بگذارید</string><string name="model_id">شناسه مدل</string><string name="system_prompt">پرامپت سیستمی</string><string name="supports_vision">پشتیبانی از تصویر</string><string name="supports_streaming">پاسخ زنده</string><string name="enabled">فعال</string><string name="endpoint_path">مسیر endpoint</string><string name="token_parameter">پارامتر توکن</string><string name="token_auto">خودکار</string><string name="token_max_tokens">max_tokens</string><string name="token_max_completion">max_completion_tokens</string><string name="delete_provider_title">سرویس حذف شود؟</string><string name="tap_to_speak">روی میکروفون بزنید و صحبت کنید.</string><string name="listening">در حال شنیدن…</string><string name="send_voice">ارسال به هوش مصنوعی</string><string name="speak_response">خواندن پاسخ</string><string name="stop_speaking">توقف صدا</string><string name="permission_denied">مجوز داده نشد</string><string name="open_settings">باز کردن تنظیمات</string><string name="speech_unavailable">تشخیص گفتار روی این دستگاه در دسترس نیست.</string><string name="voice_error">تشخیص صدا ناموفق بود.</string>
+    <string name="settings">تنظیمات</string><string name="theme">پوسته</string><string name="theme_system">سیستم</string><string name="theme_light">روشن</string><string name="theme_dark">تیره</string><string name="language">زبان</string><string name="language_english">English</string><string name="language_persian">فارسی</string><string name="voice_input_language">زبان ورودی صوتی</string><string name="tts_speed">سرعت خواندن</string><string name="tts_pitch">زیر و بمی صدا</string><string name="auto_tts">خواندن خودکار پاسخ‌ها</string><string name="auto_send_voice">ارسال خودکار متن تشخیص‌داده‌شده</string><string name="credit_saver">صرفه‌جویی در اعتبار</string><string name="credit_saver_summary">زمینه کوتاه‌تر، تصویر کوچک‌تر و پاسخ کوتاه‌تر.</string><string name="max_context_messages">حداکثر تعداد پیام‌های زمینه</string><string name="image_quality">کیفیت فشرده‌سازی تصویر</string><string name="streaming">نمایش زنده پاسخ</string><string name="local_development_warning">فقط Debug؛ ترافیک HTTP شبکه محلی رمزگذاری نمی‌شود.</string>
+    <string name="create_backup">ساخت بکاپ رمزگذاری‌شده</string><string name="restore_backup">بازیابی بکاپ رمزگذاری‌شده</string><string name="backup_password">رمز بکاپ</string><string name="backup_password_hint">حداقل ۱۰ کاراکتر</string><string name="backup_success">بکاپ رمزگذاری‌شده ساخته شد.</string><string name="restore_success">بکاپ بازیابی شد.</string><string name="restore_warning">بازیابی تمام سرویس‌ها، گفتگوها، پیام‌ها و تنظیمات فعلی را جایگزین می‌کند. ادامه می‌دهید؟</string>
+    <string name="delete_all_data">حذف تمام داده‌های محلی</string><string name="delete_all_title">تمام داده‌ها حذف شوند؟</string><string name="delete_all_body">پروفایل‌ها، کلیدهای API، گفتگوها، پیام‌ها، پیوست‌ها و تنظیمات این دستگاه برای همیشه حذف می‌شوند.</string><string name="export_diagnostics">خروجی گزارش فنی</string><string name="app_version">نسخه برنامه</string>
+    <string name="error_validation">مقادیر وارد‌شده را بررسی کنید و دوباره تلاش کنید.</string>
+    <string name="error_unsupported">این عملیات یا قابلیت در حالت فعلی پشتیبانی نمی‌شود.</string>
+    <string name="error_permission">مجوز لازم در دسترس نیست.</string>
+    <string name="error_provider">سرویس هوش مصنوعی با خطا مواجه شد.</string>
+    <string name="error_database">ذخیره یا خواندن داده‌های محلی ناموفق بود.</string>
+    <string name="error_generic">خطایی رخ داد.</string><string name="error_auth">احراز هویت ناموفق بود؛ کلید API را بررسی کنید.</string><string name="error_rate_limit">سقف درخواست‌های سرویس پر شده است.</string><string name="error_credit">اعتبار یا سهمیه سرویس کافی نیست.</string><string name="error_model">مدل انتخاب‌شده در دسترس نیست یا پشتیبانی نمی‌شود.</string><string name="error_context">گفتگو از ظرفیت این مدل طولانی‌تر است.</string><string name="error_network">اتصال شبکه ناموفق بود.</string><string name="error_tls">اتصال امن TLS ناموفق بود.</string><string name="error_endpoint">آدرس API نامعتبر یا مسدود است.</string><string name="error_timeout">مهلت درخواست به پایان رسید.</string><string name="error_backup">عملیات بکاپ ناموفق بود.</string><string name="details">جزئیات</string><string name="clear_all_chats">حذف همه گفتگوها</string><string name="clear_all_chats_confirm">همه گفتگوها و پیوست‌ها حذف شوند؟</string><string name="provider_model">%1$s · %2$s</string>
+    <string name="tts_voice">صدای خواندن</string>
+
+    <string name="copy_code">کپی کد</string>
+    <string name="image_attachment">پیوست تصویر</string>
+    <string name="back">بازگشت</string>
+    <string name="more">گزینه‌های بیشتر</string>
+    <string name="provider_disabled">غیرفعال</string>
+    <string name="new_provider">سرویس جدید</string>
+    <string name="custom_headers_hint">X-Custom-Header: value</string>
+    <string name="api_key_placeholder">کلید API را وارد کنید</string>
+    <string name="select_provider">انتخاب سرویس</string>
+    <string name="automatic">خودکار</string>
+    <string name="tts_language">زبان خواندن متن</string>
+    <string name="default_max_tokens">حداکثر توکن خروجی پیش‌فرض</string>
+    <string name="backup_file_name">omni-ai-backup.omniai</string>
+    <string name="diagnostics_file_name">omni-ai-diagnostics.txt</string>
+    <string name="password_required">رمزی با حداقل ۱۰ کاراکتر وارد کنید.</string>
+    <string name="restore_confirm_title">داده‌های محلی جایگزین شوند؟</string>
+    <string name="speech_partial">هنگام صحبت، متن تشخیص‌داده‌شده اینجا نمایش داده می‌شود.</string>
+    <string name="tts_unavailable">تبدیل متن به گفتار در دسترس نیست.</string>
+    <string name="permission_open_settings">مجوز میکروفون مسدود است. برای فعال‌کردن آن تنظیمات اندروید را باز کنید.</string>
+    <string name="clear">پاک کردن</string>
+    <string name="yes_delete">حذف</string>
+    <string name="show_active">فعلی</string>
+    <string name="show_archived">بایگانی‌شده</string>
+    <string name="conversation_menu">منوی گفتگو</string>
+    <string name="chat_title">گفتگو</string>
+    <string name="not_set">تعیین نشده</string>
+    <string name="response">پاسخ</string>
+    <string name="open_conversation">باز کردن گفتگو</string>
+    <string name="settings_saved_automatically">تنظیمات به‌صورت خودکار ذخیره می‌شوند.</string>
+    <string name="provider_profile">پروفایل سرویس</string>
+    <string name="confirm_delete_conversation">این گفتگو و پیوست‌های آن حذف شوند؟</string>
+    <string name="default_model">جایگزینی مدل پیش‌فرض</string>
+    <string name="default_model_hint">برای استفاده از مدل پروفایل، خالی بگذارید.</string>
+    <string name="diagnostics_success">گزارش عیب‌یابی صادر شد.</string>
+    <string name="delete_all_success">همه داده‌های محلی حذف شدند.</string>
+    <string name="device_manufacturer_value">سازنده: %1$s</string>
+    <string name="device_model_value">مدل: %1$s</string>
+    <string name="device_android_value">اندروید: %1$s (API %2$d)</string>
+    <string name="device_battery_value">باتری: %1$s</string>
+    <string name="device_charging_value">در حال شارژ: %1$s</string>
+    <string name="device_storage_value">فضای آزاد برنامه: %1$d مگابایت</string>
+    <string name="device_network_value">شبکه: %1$s</string>
+    <string name="network_offline">آفلاین</string>
+    <string name="network_wifi">Wi-Fi</string>
+    <string name="network_cellular">شبکه موبایل</string>
+    <string name="network_ethernet">اترنت</string>
+    <string name="network_connected">متصل</string>
+    <string name="unknown">نامشخص</string>
+    <string name="no">خیر</string>
+    <string name="no_app_for_action">هیچ برنامه نصب‌شده‌ای نمی‌تواند این عملیات را اجرا کند.</string>
+    <string name="yes">بله</string>
+    <string name="error_encryption">داده رمزگذاری‌شده محلی دیگر قابل خواندن نیست. ممکن است کلید Android Keystore بی‌اعتبار شده باشد. می‌توانید از تنظیمات داده محلی را حذف کنید و در صورت داشتن بکاپ رمزگذاری‌شده قابل‌حمل، آن را بازیابی کنید.</string>
+    <string name="hermes_title">پل ارتباطی هرمس با ویندوز</string>
+    <string name="hermes_subtitle">کنترل و خودکارسازی لپ‌تاپ ویندوز از طریق موبایل</string>
+    <string name="hermes_pc_connected">متصل به سیستم ویندوز</string>
+    <string name="hermes_pc_disconnected">در انتظار اتصال به لپ‌تاپ</string>
+    <string name="hermes_sys_info">وضعیت سیستم و منابع</string>
+    <string name="hermes_desktop_files">فهرست فایل‌های دسکتاپ</string>
+    <string name="nav_home">خانه</string>
+    <string name="nav_conversations">گفتگوها</string>
+    <string name="nav_history">تاریخچه</string>
+    <string name="nav_devices">دستگاه‌ها</string>
+    <string name="home_greeting">چه کاری برایتان انجام دهم؟</string>
+    <string name="home_target_label">اجرا روی:</string>
+    <string name="home_active_provider">سرویس فعال</string>
+    <string name="devices_ai_title">سرویس‌های هوش مصنوعی</string>
+    <string name="hermes_phone_mode">حالت فقط گوشی — بررسی اتصال ویندوز متوقف شده است</string>
+        <string name="wake_notification_title">آرمان گوش می‌دهد</string>
+    <string name="wake_channel_name">کلمهٔ بیداری آرمان</string>
+    <string name="wake_channel_description">میکروفون را باز نگه می‌دارد تا آرمان حتی با صفحهٔ خاموش با کلمهٔ بیداری بیدار شود.</string>
+    <string name="wake_ready_persian">من آماده فرماندهی هستم.</string>
+    <string name="wake_ready_english">I am ready for orders.</string>
+    <string name="wake_status_idle">در انتظار کلمهٔ بیداری</string>
+    <string name="wake_status_listening">در انتظار فرمان شما</string>
+    <string name="wake_status_unavailable">تشخیص گفتار در حال حاضر در دسترس نیست</string>
+    <string name="wake_stop">توقف</string>
+    <string name="wake_section_title">فعال‌سازی صوتی</string>
+    <string name="wake_section_summary">اجازه بده آرمان با صدا بیدار شود، حتی وقتی صفحه خاموش است.</string>
+    <string name="wake_enable_title">کلمهٔ بیداری</string>
+    <string name="wake_enable_summary">یک سرویس میکروفون در پس‌زمینه فعال می‌ماند. صدا هرگز ضبط یا ذخیره نمی‌شود.</string>
+    <string name="wake_phrase_title">عبارت بیداری</string>
+    <string name="wake_phrase_summary">کلمه‌ای که آرمان را بیدار می‌کند. مثلاً: آرمان</string>
+    <string name="wake_phrase_placeholder">آرمان</string>
+    <string name="wake_permission_note">اندروید در اولین روشن‌کردن، مجوز میکروفون و اعلان را می‌پرسد.</string>
+    <string name="wake_mic_permission_title">میکروفون</string>
+    <string name="wake_mic_permission_body">آرمان برای شنیدن کلمهٔ بیداری به میکروفون نیاز دارد. صدا روی خود دستگاه پردازش و هرگز ذخیره نمی‌شود.</string>
+    <string name="wake_notification_permission_title">اعلان‌ها</string>
+    <string name="wake_notification_permission_body">تا وقتی کلمهٔ بیداری فعال است، یک اعلان دائمی لازم است تا همیشه بدانید میکروفون باز است.</string>
+    <string name="wake_permission_denied_notice">برای بیدار کردن آرمان با صدا، اجازهٔ میکروفون لازم است.</string>
+</resources>

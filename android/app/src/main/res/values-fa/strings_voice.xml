@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_input_language_chip">ورودی صوتی · %1$s</string>
+    <string name="voice_read_aloud">خواندن پاسخ‌ها با صدا</string>
+    <string name="voice_transcript">متن گفتار</string>
+    <string name="voice_start_listening">شروع شنیدن</string>
+    <string name="voice_state_idle">آماده</string>
+    <string name="voice_state_listening">در حال شنیدن</string>
+    <string name="voice_no_match">چیزی نشنیدم؛ دوباره امتحان کنید.</string>
+    <string name="voice_no_speech">صدایی شنیده نشد؛ دوباره امتحان کنید.</string>
+    <string name="voice_reply_failed">پاسخی دریافت نشد</string>
+    <string name="voice_tts_unavailable_body">از نصب و فعال بودن موتور تبدیل متن به گفتار مطمئن شوید و دوباره تلاش کنید.</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_refinement_headline">What shall we do?</string>
+    <string name="home_refinement_choose_model">Choose a model</string>
+    <string name="home_refinement_model_selected">Model selected</string>
+    <string name="home_refinement_model_setup">Choose one to get started</string>
+    <string name="home_refinement_model_action">%1$s. Open AI providers</string>
+    <string name="home_refinement_composer_hint">Ask a question or request a task…</string>
+    <string name="home_refinement_voice_action">Open voice conversation</string>
+    <string name="home_refinement_files_title">Find your files</string>
+    <string name="home_refinement_files_body">Search for a file on this phone</string>
+    <string name="home_refinement_apps_title">Open an app</string>
+    <string name="home_refinement_apps_body">Start with the app you need</string>
+    <string name="home_refinement_alarm_title">Set an alarm</string>
+    <string name="home_refinement_alarm_body">Choose a time for your next alarm</string>
+    <string name="home_refinement_access_title">Phone access</string>
+    <string name="home_refinement_access_agent_off">Agent actions are off. Review access and permissions.</string>
+    <string name="home_refinement_access_control_off">Screen control is off. Review phone capabilities.</string>
+    <string name="home_refinement_access_permission_needed">Screen control needs Accessibility access.</string>
+    <string name="home_refinement_access_enabled">Screen access is enabled. Review other permissions.</string>
+    <string name="home_refinement_recent_title">Recent conversations</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="conversations_clear_search">Clear search</string>
+    <string name="conversations_empty_archived_title">No archived conversations</string>
+    <string name="conversations_empty_archived_body">Archive a conversation from its menu to keep it out of your main list.</string>
+    <string name="conversations_empty_archived_locked_body">Archived conversations will appear here.</string>
+    <string name="conversations_view_current">View current conversations</string>
+    <string name="conversations_empty_search_title">No matches</string>
+    <string name="conversations_empty_search_body">No conversations match “%1$s”.</string>
+    <string name="conversations_updated_at">Updated %1$s</string>
+    <string name="conversations_untitled">Untitled conversation</string>
+    <string name="conversations_title_label">Title</string>
+    <string name="conversations_cannot_be_undone">This can’t be undone.</string>
+    <string name="conversations_clear_all_warning">All conversations and their attachments, including archived conversations, will be permanently deleted.</string>
+    <string name="conversations_delete_title">Delete conversation?</string>
+</resources>

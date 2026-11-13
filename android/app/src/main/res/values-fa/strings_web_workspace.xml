@@ -1,0 +1,14 @@
+<resources>
+    <string name="web_workspace_title">سایت‌های خلاقیت</string>
+    <string name="web_workspace_subtitle">سرویس دلخواه را باز کنید و با حساب خودتان بسازید.</string>
+    <string name="web_workspace_back">بازگشت</string>
+    <string name="web_workspace_higgsfield">Higgsfield</string>
+    <string name="web_workspace_runway">Runway</string>
+    <string name="web_workspace_flow">Google Flow</string>
+    <string name="web_workspace_open">باز کردن %1$s</string>
+    <string name="web_workspace_session">دستگاه سایت را در مرورگر یا برنامهٔ سازگار باز می‌کند. در صورت نیاز همان‌جا وارد شوید؛ اومنی به حساب یا نشست مرورگر شما دسترسی ندارد.</string>
+    <string name="web_workspace_launch_error">برنامهٔ سازگاری برای باز کردن سایت پیدا نشد. مرورگر را نصب یا فعال کنید و دوباره امتحان کنید.</string>
+    <string name="web_workspace_workflow_title">کار بین برنامه‌ها</string>
+    <string name="web_workspace_workflow">ایده‌ها را در اومنی آماده و در سایت کپی کنید. برای استفاده در جای دیگر، فایل‌های نهایی را دستی ذخیره یا هم‌رسانی کنید.</string>
+    <string name="web_workspace_billing">اشتراک وب و استفاده از API توسعه‌دهندگان ممکن است هزینه یا اعتبار جداگانه داشته باشند. پیش از ساخت، شرایط سرویس را بررسی کنید؛ این صفحه API را وصل نمی‌کند و فایل را خودکار انتقال نمی‌دهد.</string>
+</resources>
