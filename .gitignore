@@ -1,0 +1,38 @@
+# Dependencies and generated output
+**/node_modules/
+**/dist/
+**/build/
+**/release/
+**/.gradle/
+**/.kotlin/
+**/runtime/
+
+# Local settings, secrets, signing keys and user data
+**/local.properties
+**/.env
+**/.env.*
+!**/.env.example
+**/*.keystore
+**/*.jks
+**/*.p12
+**/*.pfx
+**/*.pem
+**/*.key
+**/*.db
+**/*.db-*
+**/*.sqlite*
+**/secrets.json
+**/omni-data/
+**/.preview*/
+
+# Editor, system and test artifacts
+**/.DS_Store
+**/Thumbs.db
+**/.idea/
+**/*.iml
+**/*.log
+**/coverage/
+**/test-results/
+**/*.apk
+**/*.aab
+
